@@ -5,7 +5,7 @@
 
 ## Description
 
-Given list of bank locations, how much money each one holds and the time it would take to rob each one, you need to apply your hard-won algorithm knowledge to make as much profit as possible! _I bet you didn't think that data science could be this profitable!_
+Given list of bank locations, how much money each one holds and the time it would take to rob each one, you need to apply your hard-won algorithm knowledge to make as much profit as possible.
 
 You will design and write a solution to an NP-Had algorithm to this problem
 
@@ -82,4 +82,3 @@ You can use the `check_solution` function from `utils/check_solution.py` to test
 
 ---
 
-![](https://media2.giphy.com/media/l41K160KBZgAxhhG8/200.gif)
